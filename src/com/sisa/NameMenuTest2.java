@@ -2,12 +2,12 @@ package com.sisa;
 
 import java.util.Scanner;
 
-public class NameMenuTest {
+public class NameMenuTest2 {
 
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        NameMenu menu = new NameMenu();
+        NameMenu2 menu = new NameMenu2();
 
         while (true) {
             System.out.println("\n<이름메뉴>");

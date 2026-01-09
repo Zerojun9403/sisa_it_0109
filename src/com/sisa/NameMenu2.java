@@ -2,7 +2,7 @@ package com.sisa;
 
 import java.util.ArrayList;
 
-public class NameMenu {
+public class NameMenu2 {
 
     // 멤버변수
     private ArrayList<String> names = new ArrayList<>();
