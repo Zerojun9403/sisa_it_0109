@@ -14,7 +14,7 @@ public class NameMenuTest {
             System.out.println("1.추가 2.검색 3.수정 4.삭제 5.종료");
             System.out.print("번호입력 ==> ");
             int choice = sc.nextInt();
-            sc.nextLine(); // 버퍼 처리
+            sc.nextLine(); // 버퍼 처fl
 
             switch (choice) {
                 case 1:
